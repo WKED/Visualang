@@ -1,0 +1,13 @@
+{
+    "c#": "media\\c#.svg",
+    "css": "media\\css.svg",
+    "go": "media\\go.svg",
+    "html": "media\\html.svg",
+    "java": "media\\java.svg",
+    "javascript": "media\\javascript.svg",
+    "json": "media\\json.svg",
+    "php": "media\\php.svg",
+    "python": "media\\python.svg",
+    "ruby": "media\\ruby.svg",
+    "rust": "media\\rust.svg"
+}
